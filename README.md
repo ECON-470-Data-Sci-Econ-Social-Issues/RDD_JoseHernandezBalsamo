@@ -1,3 +1,4 @@
+The purpose of this repository is to replicate the findings in "Are Incentives for R&D Effective? Evidence from a Regression Discontinuity Approach" 
 All files necessary to replicate "Are Incentives for R&D Effective? Evidence from a Regression Discontinuity Approach" are 
 on https://www.openicpsr.org/openicpsr/project/114875/version/V1/view
 
